@@ -1,12 +1,3 @@
-## Hi there 👋
+Our company provides all localisation services in all languages and technical support to boost your success. Our in-house team is  well experienced to provide better service in each and every projects.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Infolite provides all services relating to localisation like translation, transcription, proof reading, image annotation, image data collection, voice over, voice recording, and relates writing like content writing, academic writing, technical writing, blog writing, copy writing, ghost writing almost in all Indian languages and some non-Indian languages and we will provide 24*7 services, our quality is one of the speaking factor of our company, we can assist your business by providing some technical services include web development, app development, auto-responsive bots, technical support.
